@@ -1,0 +1,18 @@
+.odd {
+    background-color: rgb(255, 179, 222);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#uniq1 {
+    font-size: 36px;
+    color: rgb(25, 107, 231);
+}
+
+.larger-text-elem {
+    font-size: 24px;
+}
+
+#uniq2 {
+    font-weight: 700;
+    background-color: rgb(161, 241, 125);
+}
